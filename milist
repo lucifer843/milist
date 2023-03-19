@@ -1,0 +1,523 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/la14k.png?raw=true" group-title="MOVISTAR+",LA 1 4k
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26150?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/la11.png?raw=true" group-title="MOVISTAR+",LA 1 HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeAp
+#EXTINF:-1 tvg-id="LA 2" tvg-logo="https://github.com/lucifer843/picon/blob/main/la24k.png?raw=true" group-title="MOVISTAR+",LA 2 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26151?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="LA 2" tvg-logo="https://github.com/lucifer843/picon/blob/main/la22.png?raw=true" group-title="MOVISTAR+",LA 2 HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApXmfdskMNbYrP1PNC0bt0Sa
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/antena34k.png?raw=true" group-title="MOVISTAR+",ANTENA 3 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26152?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/antena31.png?raw=true" group-title="MOVISTAR+",ANTENA 3 HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApWkmjX1ktHWSqL-YQdJiyL-
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/cuatro4k.png?raw=true" group-title="MOVISTAR+",CUATRO 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26153?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/cuatro1.png?raw=true" group-title="MOVISTAR+",CUATRO HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApWvfYvKKH-r4Al1g9lr7Gcc
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/telecinco4k.png?raw=true" group-title="MOVISTAR+",TELECINCO 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26154?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/telecinco1.png?raw=true" group-title="MOVISTAR+",TELECINCO HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApXd-B6KjY_OvfTPuwvZeU2z
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/lasexta4k.png?raw=true" group-title="MOVISTAR+",LA SEXTA 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26155?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/lasexta1.png?raw=true" group-title="MOVISTAR+",LA SEXTA HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApWbWf8y17x1o_2BnIszPFeb
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplus04k.png?raw=true" group-title="MOVISTAR+",M+ #0 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26172?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplus01.png?raw=true" group-title="MOVISTAR+",M+ #0 HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApXY_p1Jrcv3OCt0F69pwR9M
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplus01.png?raw=true" group-title="MOVISTAR+",M+ #0 HD
+http://bestshow365.xyz:80/3884151988/5015530289/189440
+#EXTINF:-1 tvg-id="M+ESTRENOSHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusestrenos4k.png?raw=true" group-title="MOVISTAR+",M+ESTRENOS 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26156?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ESTRENOSHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusestrenos1.png?raw=true" group-title="MOVISTAR+",M+ESTRENOSHD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApXPOYtMu_kAh7TazNUE7OoR
+#EXTINF:-1 tvg-id="M+ESTRENOSHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusestrenos1.png?raw=true" group-title="MOVISTAR+",M+ESTRENOSHD
+http://bestshow365.xyz:80/3884151988/5015530289/189430
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusestrenos21.png?raw=true" group-title="MOVISTAR+",M+ ESTRENOS 2
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27193?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusestrenos21.png?raw=true" group-title="MOVISTAR+",M+ ESTRENOS 2
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_ofgqeL3QPgXPU-mZzPC-FQVWb1xH1NgV6WDCoR9Fzvs
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusestrenos21.png?raw=true" group-title="MOVISTAR+",M+ ESTRENOS 2
+http://bestshow365.xyz:80/3884151988/5015530289/187594
+#EXTINF:-1 tvg-id="M+ ACCIÓN HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusaccion4k.png?raw=true" group-title="MOVISTAR+",M+ ACCIÓN 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26157?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ ACCIÓN HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusaccion1.png?raw=true" group-title="MOVISTAR+",M+ ACCIÓN HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApVG4GcPHgWRaiJxw5lMj0ic
+#EXTINF:-1 tvg-id="M+ ACCIÓN HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusaccion1.png?raw=true" group-title="MOVISTAR+",M+ ACCIÓN HD
+http://bestshow365.xyz:80/3884151988/5015530289/189431
+#EXTINF:-1 tvg-id="M+ ACCIÓN 2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusaccion2.png?raw=true" group-title="MOVISTAR+",M+ ACCIÓN 2 HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27198?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ ACCIÓN 2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusaccion2.png?raw=true" group-title="MOVISTAR+",M+ ACCIÓN 2 HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27199?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluscomedia4k.png?raw=true" group-title="MOVISTAR+",M+COMEDIA 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26158?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluscomedia1.png?raw=true" group-title="MOVISTAR+",M+COMEDIA HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApVXK75bRjQXrkcMdzn6cGsy
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluscomedia1.png?raw=true" group-title="MOVISTAR+",M+COMEDIA HD
+http://bestshow365.xyz:80/3884151988/5015530289/189432
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusdrama4k.png?raw=true" group-title="MOVISTAR+",M+ DRAMA 4K
+http://abc796b3c8fb04ca8610f12e37e92955.spa.unver.me:25461/Y6NassLNMR/725147112676/26159?h=a70ecec2c73e18dc77728c4fd52e190bdf35e0ba&z=88.9.217.103&i=15276
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusdrama1.png?raw=true" group-title="MOVISTAR+",M+ DRAMA HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApVG7DwkjC0brKcmuLmuEtVX
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusdrama1.png?raw=true" group-title="MOVISTAR+",M+ DRAMA HD
+http://bestshow365.xyz:80/3884151988/5015530289/189433
+#EXTINF:-1 tvg-id="M+ DRAMA 2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusdrama2.png?raw=true" group-title="MOVISTAR+",M+ DRAMA 2 HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27200?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ DRAMA 2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusdrama2.png?raw=true" group-title="MOVISTAR+",M+ DRAMA 2 HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27201?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusclasicos1.png?raw=true" group-title="MOVISTAR+",M+ CLÁSICOS HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27214?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusclasicos1.png?raw=true" group-title="MOVISTAR+",M+ CLÁSICOS HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_ofgqeL3QPgXPU-mZzPC-FReNVSZW-9nB7uw3SPukFoe
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusclasicos1.png?raw=true" group-title="MOVISTAR+",M+ CLÁSICOS HD
+http://bestshow365.xyz:80/3884151988/5015530289/400233593
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluscineespanol1.png?raw=true" group-title="MOVISTAR+",M+ Cine Español
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3847?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluscineespanol1.png?raw=true" group-title="MOVISTAR+",M+ Cine Español
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_ofgqeL3QPgXPU-mZzPC-FSGSoIzb3a0QssWtCr4D6_U
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluscineespanol1.png?raw=true" group-title="MOVISTAR+",M+ Cine Español
+http://bestshow365.xyz:80/3884151988/5015530289/189434
+#EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/tcm1.png?raw=true" group-title="MOVISTAR+",TCM HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3813?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/tcm1.png?raw=true" group-title="MOVISTAR+",TCM HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApUPE-VjxVMSrtVQmwcToL3_
+#EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/tcm1.png?raw=true" group-title="MOVISTAR+",TCM HD
+http://bestshow365.xyz:80/3884151988/5015530289/189437
+#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/fox4k.png?raw=true" group-title="MOVISTAR+",FOX 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27183?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/fox2.png?raw=true" group-title="MOVISTAR+",FOX HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApVqOV30uANeZzA7nNIeIYIK
+#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/fox2.png?raw=true" group-title="MOVISTAR+",FOX HD
+http://bestshow365.xyz:80/3884151988/5015530289/189442
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/axn1.png?raw=true" group-title="MOVISTAR+",AXN HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3791?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/axn1.png?raw=true" group-title="MOVISTAR+",AXN HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApUxHJcjKfYXHHudO1h77AXY
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/axn1.png?raw=true" group-title="MOVISTAR+",AXN HD
+http://bestshow365.xyz:80/3884151988/5015530289/189444
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/axnwhite1.png?raw=true" group-title="MOVISTAR+",AXN WHITE HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3821?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/axnwhite1.png?raw=true" group-title="MOVISTAR+",AXN WHITE HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApWSuTXCD_S87-HiQEg7iR6n
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/axnwhite1.png?raw=true" group-title="MOVISTAR+",AXN WHITE HD
+http://bestshow365.xyz:80/3884151988/5015530289/189445
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/calle131.png?raw=true" group-title="MOVISTAR+",CALLE 13 HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3792?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/calle131.png?raw=true" group-title="MOVISTAR+",CALLE 13 HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApX51NH0kd10HLkdhv4dt4Ty
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/calle131.png?raw=true" group-title="MOVISTAR+",CALLE 13 HD
+http://bestshow365.xyz:80/3884151988/5015530289/189452
+#EXTINF:-1 tvg-id="HOLLYWOODHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/hollywood4k.png?raw=true" group-title="MOVISTAR+",HOLLYWOOD 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27182?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="HOLLYWOODHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/hollywood1.png?raw=true" group-title="MOVISTAR+",HOLLYWOOD HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApWFzOKEYZP_LAZ2dDosxObF
+#EXTINF:-1 tvg-id="HOLLYWOODHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/hollywood1.png?raw=true" group-title="MOVISTAR+",HOLLYWOOD HD
+http://bestshow365.xyz:80/3884151988/5015530289/189436
+#EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/cosmo1.png?raw=true" group-title="MOVISTAR+",COSMO HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3834?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/cosmo1.png?raw=true" group-title="MOVISTAR+",COSMO HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApUIXgOZ8lYJwFIg70QuP8NW
+#EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/cosmo1.png?raw=true" group-title="MOVISTAR+",COSMO HD
+http://bestshow365.xyz:80/3884151988/5015530289/189451
+#EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/syfy4k.png?raw=true" group-title="MOVISTAR+",SYFY 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27180?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/syfy1.png?raw=true" group-title="MOVISTAR+",SYFY HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApVjnsCsqsHMz6Eg1C9nu_YM
+#EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/syfy1.png?raw=true" group-title="MOVISTAR+",SYFY HD
+http://bestshow365.xyz:80/3884151988/5015530289/189446
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusseries14k.png?raw=true" group-title="MOVISTAR+",M+ SERIES 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26160?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusseries1.png?raw=true" group-title="MOVISTAR+",M+ SERIES HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApWBo6oKYft8gOKXXo1PRgFx
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusseries1.png?raw=true" group-title="MOVISTAR+",M+ SERIES HD
+http://bestshow365.xyz:80/3884151988/5015530289/189435
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusseries24k.png?raw=true" group-title="MOVISTAR+",M+ SERIES 2 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27181?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusseries21.png?raw=true" group-title="MOVISTAR+",M+ SERIES 2 HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApXTNLSx4hTMyWqQ3CrJE8DC
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusseries21.png?raw=true" group-title="MOVISTAR+",M+ SERIES 2 HD
+http://bestshow365.xyz:80/3884151988/5015530289/189441
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/amc4k.png?raw=true" group-title="MOVISTAR+",AMC 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27186?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/amc1.png?raw=true" group-title="MOVISTAR+",AMC HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApWzNAhCnbERPjscjg7VboI2
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/amc1.png?raw=true" group-title="MOVISTAR+",AMC HD
+http://bestshow365.xyz:80/3884151988/5015530289/189450
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/tnt4k.png?raw=true" group-title="MOVISTAR+",TNT 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27179?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/tnt1.png?raw=true" group-title="MOVISTAR+",TNT HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApXZKDFC_pH1gAXMKGSNMJQb
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/tnt1.png?raw=true" group-title="MOVISTAR+",TNT HD
+http://bestshow365.xyz:80/3884151988/5015530289/189438
+#EXTINF:-1 tvg-id="NEOX" tvg-logo="https://github.com/lucifer843/picon/blob/main/neox1.png?raw=true" group-title="MOVISTAR+",NEOX
+http://abc796b3c8fb04ca8610f12e37e92955.spa.unver.me:25461/Y6NassLNMR/725147112676/3851?h=a70ecec2c73e18dc77728c4fd52e190bdf35e0ba&z=88.9.217.103&i=15276
+#EXTINF:-1 tvg-id="NEOX" tvg-logo="https://github.com/lucifer843/picon/blob/main/neox1.png?raw=true" group-title="MOVISTAR+",NEOX
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApWCFu16qu86YpBxbLdN8Iv2
+#EXTINF:-1 tvg-id="NEOX" tvg-logo="https://github.com/lucifer843/picon/blob/main/neox1.png?raw=true" group-title="MOVISTAR+",NEOX
+http://bestshow365.xyz:80/live/3884151988/5015530289/189427
+#EXTINF:-1 tvg-id="COMEDYCENTRALHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/comedycentral1.png?raw=true" group-title="MOVISTAR+",COMEDYCENTRALHD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3833?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="COMEDYCENTRALHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/comedycentral1.png?raw=true" group-title="MOVISTAR+",COMEDYCENTRALHD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApVIKSdeDctPhZ2FDEjPbGal
+#EXTINF:-1 tvg-id="COMEDYCENTRALHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/comedycentral1.png?raw=true" group-title="MOVISTAR+",COMEDYCENTRALHD
+http://bestshow365.xyz:80/3884151988/5015530289/189448
+#EXTINF:-1 tvg-id="60d356a534f63f000850cdd7" tvg-logo="https://github.com/lucifer843/lucifer843/blob/main/topgear.png?raw=true" group-title="MOVISTAR+",TOP GEAR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="60e45687313c5f0007bc8e94" tvg-logo="https://github.com/lucifer843/lucifer843/blob/main/elencantadordeperros.png?raw=true" group-title="MOVISTAR+",EL ENCANTADOR DE PERROS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="6076c74daa05ac0007d0eb07" tvg-logo="https://github.com/lucifer843/lucifer843/blob/main/tuning.png?raw=true" group-title="MOVISTAR+",TUNING
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f28009b150b2500077766b8" tvg-logo="https://github.com/lucifer843/lucifer843/blob/main/vayasemanita.png?raw=true" group-title="MOVISTAR+",VAYA SEMANITA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f1acdfda84c970007e750b5" tvg-logo="https://github.com/lucifer843/lucifer843/blob/main/mundorealplus.png?raw=true" group-title="MOVISTAR+",MUNDO REAL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acdfda84c970007e750b5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5f984f4a09e92d0007d74647" tvg-logo="https://github.com/lucifer843/lucifer843/blob/main/archivosforenses.png?raw=true" group-title="MOVISTAR+",ARCHIVOS FORENSES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="XTRM" tvg-logo="https://github.com/lucifer843/picon/blob/main/xtrm2.png?raw=true" group-title="MOVISTAR+",XTRM
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxUI5I2v7SMBYyJDehwFv5RcRmVxt9kzGHA2ruGNE8h7y
+#EXTINF:-1 tvg-id="XTRM" tvg-logo="https://github.com/lucifer843/picon/blob/main/xtrm2.png?raw=true" group-title="MOVISTAR+",XTRM
+http://bestshow365.xyz:80/3884151988/5015530289/5634
+#EXTINF:-1 tvg-id="DARK" tvg-logo="https://github.com/lucifer843/picon/blob/main/dark2.png?raw=true" group-title="MOVISTAR+",DARK
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_mOS7_7SgaJo7mOl-PtZfvBI0GmX8Hz2QO-FypxEjKK6
+#EXTINF:-1 tvg-id="DARK" tvg-logo="https://github.com/lucifer843/picon/blob/main/dark2.png?raw=true" group-title="MOVISTAR+",DARK
+http://bestshow365.xyz:80/3884151988/5015530289/400278978
+#EXTINF:-1 tvg-id="BOM" tvg-logo="https://github.com/lucifer843/picon/blob/main/bomcine1.png?raw=true" group-title="MOVISTAR+",BOM CINE
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_ofgqeL3QPgXPU-mZzPC-FRG5Kyy3yFUKrqodmKoliaX
+#EXTINF:-1 tvg-id="BOM" tvg-logo="https://github.com/lucifer843/picon/blob/main/bomcine1.png?raw=true" group-title="MOVISTAR+",BOM CINE
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/25848?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="SOMOS" tvg-logo="https://github.com/lucifer843/picon/blob/main/somos2.png?raw=true" group-title="MOVISTAR+",SOMOS
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApV_Uaz1QS8rCrCJgwXJ5N1j
+#EXTINF:-1 tvg-id="SOMOS" tvg-logo="https://github.com/lucifer843/picon/blob/main/somos2.png?raw=true" group-title="MOVISTAR+",SOMOS
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26342?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://github.com/lucifer843/picon/blob/main/paramountnetwork1.png?raw=true" group-title="MOVISTAR+",PARAMOUNT
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApXQ2kakgegg_Y89ABnYgdG0
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://github.com/lucifer843/picon/blob/main/paramountnetwork1.png?raw=true" group-title="MOVISTAR+",PARAMOUNT
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/25871?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-logo="https://github.com/lucifer843/picon/blob/main/amcbreack2.png?raw=true" group-title="MOVISTAR+",AMC BREAK
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApXnvCuc7KKyqruUKGTQUZ3p
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-logo="https://github.com/lucifer843/picon/blob/main/amcbreack2.png?raw=true" group-title="MOVISTAR+",AMC BREAK
+http://bestshow365.xyz:80/live/3884151988/5015530289/189482.ts
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-logo="https://github.com/lucifer843/picon/blob/main/amccrime2.png?raw=true" group-title="MOVISTAR+",AMC CRIME
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApX4NEzabHIw7-abSjWljKK1
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-logo="https://github.com/lucifer843/picon/blob/main/amccrime2.png?raw=true" group-title="MOVISTAR+",AMC CRIME
+http://bestshow365.xyz:80/live/3884151988/5015530289/189478.ts
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://github.com/lucifer843/picon/blob/main/discovery1.png?raw=true" group-title="MOVISTAR+",DISCOVERY 
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApUiMZo9FKsnKP8_5OKgYlfe
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://github.com/lucifer843/picon/blob/main/discovery1.png?raw=true" group-title="MOVISTAR+",DISCOVERY 
+http://bestshow365.xyz:80/live/3884151988/5015530289/189476.ts
+#EXTINF:-1 tvg-id="M+ La Resistencia" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaresistencia1.png?raw=true" group-title="MOVISTAR+",M+ La Resistencia
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_ofgqeL3QPgXPU-mZzPC-FTwXAnxoK7l5Aj79wcf4yJD
+#EXTINF:-1 tvg-id="M+ La Resistencia" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaresistencia1.png?raw=true" group-title="MOVISTAR+",M+ La Resistencia
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27187?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-logo="https://github.com/lucifer843/picon/blob/main/sundancetv1.png?raw=true" group-title="MOVISTAR+",SUNDANCE TV
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApVct3Cyx8JK8mY6ZZGW-iaf
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-logo="https://github.com/lucifer843/picon/blob/main/sundancetv1.png?raw=true" group-title="MOVISTAR+",SUNDANCE TV
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3856?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="MEGA" tvg-logo="https://github.com/lucifer843/picon/blob/main/mega1.png?raw=true" group-title="MOVISTAR+",MEGA
+http://bestshow365.xyz:80/live/3884151988/5015530289/5632.ts
+#EXTINF:-1 tvg-id="MEGA" tvg-logo="https://github.com/lucifer843/picon/blob/main/mega1.png?raw=true" group-title="MOVISTAR+",MEGA
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApUtdDzOkRxp3v4IVSKH-bK0
+#EXTINF:-1 tvg-id="FDF" tvg-logo="https://github.com/lucifer843/picon/blob/main/fdf1.png?raw=true" group-title="MOVISTAR+",FDF
+http://bestshow365.xyz:80/live/3884151988/5015530289/189477.ts
+#EXTINF:-1 tvg-id="FDF" tvg-logo="https://github.com/lucifer843/picon/blob/main/fdf1.png?raw=true" group-title="MOVISTAR+",FDF
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3841?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/a3series1.png?raw=true" group-title="MOVISTAR+",Atreseries HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApVzOBKy8qNysPxVGYB1uzWT
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/a3series1.png?raw=true" group-title="MOVISTAR+",Atreseries HD
+http://bestshow365.xyz:80/live/3884151988/5015530289/5620.ts
+#EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://github.com/lucifer843/picon/blob/main/energy1.png?raw=true" group-title="MOVISTAR+",ENERGY
+http://bestshow365.xyz:80/live/3884151988/5015530289/189454.ts
+#EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://github.com/lucifer843/picon/blob/main/energy1.png?raw=true" group-title="MOVISTAR+",ENERGY
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3840?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://github.com/lucifer843/picon/blob/main/divinity1.png?raw=true" group-title="MOVISTAR+",DIVINITY
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApUJjhdQ_fRC6HuqaFZOHpjz
+#EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://github.com/lucifer843/picon/blob/main/divinity1.png?raw=true" group-title="MOVISTAR+",DIVINITY
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3839?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://github.com/lucifer843/picon/blob/main/bemad1.png?raw=true" group-title="MOVISTAR+",BEMAD
+http://bestshow365.xyz:80/live/3884151988/5015530289/189455.ts
+#EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://github.com/lucifer843/picon/blob/main/bemad1.png?raw=true" group-title="MOVISTAR+",BEMAD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApXrI8DygnjIYxD0w061PIwp
+#EXTINF:-1 tvg-id="NOVA" tvg-logo="https://github.com/lucifer843/picon/blob/main/nova1.png?raw=true" group-title="MOVISTAR+",NOVA
+http://bestshow365.xyz:80/live/3884151988/5015530289/189426.ts
+#EXTINF:-1 tvg-id="NOVA" tvg-logo="https://github.com/lucifer843/picon/blob/main/nova1.png?raw=true" group-title="MOVISTAR+",NOVA
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApU8bqdWAkGZ6Taq4vjnBp8P
+#EXTINF:-1 tvg-id="DMAX" tvg-logo="https://github.com/lucifer843/picon/blob/main/dmax1.png?raw=true" group-title="MOVISTAR+",DMAX
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApV0GWlS8BFIyrB0CPlStgtO
+#EXTINF:-1 tvg-id="DMAX" tvg-logo="https://github.com/lucifer843/picon/blob/main/dmax1.png?raw=true" group-title="MOVISTAR+",DMAX
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/25857?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="TEN" tvg-logo="https://github.com/lucifer843/picon/blob/main/ten1.png?raw=true" group-title="MOVISTAR+",TEN
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApUebvg8CXcKtJN2ctfqaxbv
+#EXTINF:-1 tvg-id="TEN" tvg-logo="https://github.com/lucifer843/picon/blob/main/ten1.png?raw=true" group-title="MOVISTAR+",TEN
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/25869?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://github.com/lucifer843/picon/blob/main/dkiss1.png?raw=true" group-title="MOVISTAR+",DKISS
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApVxwQHyzOiYr4WzWil6NwFq
+#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://github.com/lucifer843/picon/blob/main/dkiss1.png?raw=true" group-title="MOVISTAR+",DKISS
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/25866?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="TRECE" tvg-logo="https://github.com/lucifer843/picon/blob/main/trece.png?raw=true" group-title="MOVISTAR+",TRECE
+http://bestshow365.xyz:80/live/3884151988/5015530289/6142.ts
+#EXTINF:-1 tvg-id="TRECE" tvg-logo="https://github.com/lucifer843/picon/blob/main/trece.png?raw=true" group-title="MOVISTAR+",TRECE
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/25853?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="ETB 1 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/etb1.png?raw=true" group-title="MOVISTAR+",ETB 1 HD
+http://bestshow365.xyz:80/3884151988/5015530289/18423
+#EXTINF:-1 tvg-id="ETB 2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/etb2.png?raw=true" group-title="MOVISTAR+",ETB 2 HD
+http://bestshow365.xyz:80/3884151988/5015530289/18425
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-logo="https://github.com/lucifer843/picon/blob/main/decasa1.png?raw=true" group-title="MOVISTAR+",CANAL DECASA
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxUI5I2v7SMBYyJDehwFv5RdXGL2znqSVPFTkxawHeaki
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-logo="https://github.com/lucifer843/picon/blob/main/decasa1.png?raw=true" group-title="MOVISTAR+",CANAL DECASA
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3828?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://github.com/lucifer843/picon/blob/main/canalcocina1.png?raw=true" group-title="MOVISTAR+",CANAL COCINA
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApUiUjlqdhotg3jLLLTyzaoG
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-logo="https://github.com/lucifer843/picon/blob/main/canalcocina1.png?raw=true" group-title="MOVISTAR+",CANAL COCINA
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3827?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://github.com/lucifer843/picon/blob/main/historia1.png?raw=true" group-title="MOVISTAR+",HISTORIA
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApWHntea90xRkllpZJ5dJ-wZ
+#EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://github.com/lucifer843/picon/blob/main/historia1.png?raw=true" group-title="MOVISTAR+",HISTORIA
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3844?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-logo="https://github.com/lucifer843/picon/blob/main/canalodisea1.png?raw=true" group-title="MOVISTAR+",CANAL ODISEA
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApXoyp5q30AVA07jhA_OMQnA
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-logo="https://github.com/lucifer843/picon/blob/main/canalodisea1.png?raw=true" group-title="MOVISTAR+",CANAL ODISEA
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3829?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/natgeo4k.png?raw=true" group-title="MOVISTAR+",NAT GEO 4K 
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26322?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/natgeo1.png?raw=true" group-title="MOVISTAR+",NAT GEO HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApX3jf6QlmHTyiBulY1ig2S4
+#EXTINF:-1 tvg-id="NG WILD HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/natwild4k.png?raw=true" group-title="MOVISTAR+",NG WILD 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26324?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="NG WILD HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/natgeowild1.png?raw=true" group-title="MOVISTAR+",NG WILD HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApUyLUjFcetGjykW1DDSqV2m
+#EXTINF:-1 tvg-id="ENFAMILIA" tvg-logo="https://github.com/lucifer843/picon/blob/main/enfamilia1.png?raw=true" group-title="MOVISTAR+",ENFAMILIA
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApUcLKRSS_69oGfCrQy668fW
+#EXTINF:-1 tvg-id="ENFAMILIA" tvg-logo="https://github.com/lucifer843/picon/blob/main/enfamilia1.png?raw=true" group-title="MOVISTAR+",ENFAMILIA
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3830?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-logo="https://github.com/lucifer843/picon/blob/main/nickelodeon1.png?raw=true" group-title="MOVISTAR+",NICKELODEON
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApWNta6ZmHoT9FNVqCjPteIM
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-logo="https://github.com/lucifer843/picon/blob/main/nickelodeon1.png?raw=true" group-title="MOVISTAR+",NICKELODEON
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3853?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://github.com/lucifer843/picon/blob/main/nickjr1.png?raw=true" group-title="MOVISTAR+",NICK JR
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApXt_P6zVj8yWmNmV6qxu9pe
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://github.com/lucifer843/picon/blob/main/nickjr1.png?raw=true" group-title="MOVISTAR+",NICK JR
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3852?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/dreamworks1.png?raw=true" group-title="MOVISTAR+",DreamWorks HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_uY0ha2S8ma2tVA7TPWEy6lppDxE2Km7SPcWbWXazncD
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/dreamworks1.png?raw=true" group-title="MOVISTAR+",DreamWorks HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27216?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="https://github.com/lucifer843/picon/blob/main/disneyjunior1.png?raw=true" group-title="MOVISTAR+",DISNEY JR
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApXn1JfGtc1bXQ5evn9VGum9
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="https://github.com/lucifer843/picon/blob/main/disneyjunior1.png?raw=true" group-title="MOVISTAR+",DISNEY JR
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3838?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://github.com/lucifer843/picon/blob/main/disneychanel1.png?raw=true" group-title="MOVISTAR+",DISNEY CH HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApVRbZbqnsyO7VPtfD-_xdJy
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://github.com/lucifer843/picon/blob/main/disneychanel1.png?raw=true" group-title="MOVISTAR+",DISNEY CH HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3837?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="BOING" tvg-logo="https://github.com/lucifer843/picon/blob/main/boing1.png?raw=true" group-title="MOVISTAR+",BOING
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApUbhjHnyl1h9vLACN905aon
+#EXTINF:-1 tvg-id="BOING" tvg-logo="https://github.com/lucifer843/picon/blob/main/boing1.png?raw=true" group-title="MOVISTAR+",BOING
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3826?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="CLAN TVE" tvg-logo="https://github.com/lucifer843/picon/blob/main/clantv1.png?raw=true" group-title="MOVISTAR+",CLAN TVE
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApV-VV5jU-boeMnZ0HVy9T9Y
+#EXTINF:-1 tvg-id="CLAN TVE" tvg-logo="https://github.com/lucifer843/picon/blob/main/clantv1.png?raw=true" group-title="MOVISTAR+",CLAN TVE
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3832?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="BabyTV" tvg-logo="https://github.com/lucifer843/picon/blob/main/babytv1.png?raw=true" group-title="MOVISTAR+",BABY TV
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApV3p4nNJYQnR5r8sXM_RVWe
+#EXTINF:-1 tvg-id="BabyTV" tvg-logo="https://github.com/lucifer843/picon/blob/main/babytv1.png?raw=true" group-title="MOVISTAR+",BABY TV
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/383?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ Fest" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusfest1.png?raw=true" group-title="MOVISTAR+",M+ FEST HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_ofgqeL3QPgXPU-mZzPC-FRqGxNqpaSN1eudnkT802FY
+#EXTINF:-1 tvg-id="M+ Fest" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusfest1.png?raw=true" group-title="MOVISTAR+",M+ FEST HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27192?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-logo="https://github.com/lucifer843/picon/blob/main/mtvespana1.png?raw=true" group-title="MOVISTAR+",MTV ESPAÑA
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApWeEKBMzu00N6tQFaJCJg5O
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-logo="https://github.com/lucifer843/picon/blob/main/mtvespana1.png?raw=true" group-title="MOVISTAR+",MTV ESPAÑA
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/447?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="Sol Música" tvg-logo="https://github.com/lucifer843/picon/blob/main/solmusica1.png?raw=true" group-title="MOVISTAR+",SOL MUSICA
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApW6LZOJmkS5WvvdD57jzBqy
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-logo="https://github.com/lucifer843/picon/blob/main/eurosport14k.png?raw=true" group-title="MOVISTAR+",EUROSPORT1 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26281?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-logo="https://github.com/lucifer843/picon/blob/main/eurosport11.png?raw=true" group-title="MOVISTAR+",EUROSPORT 1
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApXqPMVmsvHcJ7fEDAFoPMT4
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-logo="https://github.com/lucifer843/picon/blob/main/eurosport11.png?raw=true" group-title="MOVISTAR+",EUROSPORT 1
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3794?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-logo="https://github.com/lucifer843/picon/blob/main/eurosport11.png?raw=true" group-title="MOVISTAR+",EUROSPORT 1
+http://bestshow365.xyz:80/live/3884151988/5015530289/189470.ts
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://github.com/lucifer843/picon/blob/main/eurosport21.png?raw=true" group-title="MOVISTAR+",EUROSPORT 2
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_ofgqeL3QPgXPU-mZzPC-FSzMv_-W-N65gX9fmfiAq2l
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://github.com/lucifer843/picon/blob/main/eurosport21.png?raw=true" group-title="MOVISTAR+",EUROSPORT 2
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/414?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://github.com/lucifer843/picon/blob/main/eurosport21.png?raw=true" group-title="MOVISTAR+",EUROSPORT 2
+http://bestshow365.xyz:80/live/3884151988/5015530289/189471.ts
+#EXTINF:-1 tvg-id="BARÇA TV" tvg-logo="https://github.com/lucifer843/picon/blob/main/barcatv1.png?raw=true" group-title="MOVISTAR+",BARÇA TV
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_k2nZ1RmnKvSiNVD4TyMFEYjMkxCASv8NGS5wPYvc-EH
+#EXTINF:-1 tvg-id="BARÇA TV" tvg-logo="https://github.com/lucifer843/picon/blob/main/barcatv1.png?raw=true" group-title="MOVISTAR+",BARÇA TV
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3823?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://github.com/lucifer843/picon/blob/main/esport3.png?raw=true" group-title="MOVISTAR+",ESPORT 3
+http://tammi.solanaflix.com:8080/live/TV-91304560/590692632754/48549.m3u8
+#EXTINF:-1 tvg-id="Realmadrid TV HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/realmadridtv1.png?raw=true" group-title="MOVISTAR+",Realmadrid TV HD
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxUI5I2v7SMBYyJDehwFv5ReEG73-YteVOQbywbAj975I
+#EXTINF:-1 tvg-id="Realmadrid TV HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/realmadridtv1.png?raw=true" group-title="MOVISTAR+",Realmadrid TV HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/25867?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusdeportes1.png?raw=true" group-title="MOVISTAR+",M+DEPORTESHD
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxUI5I2v7SMBYyJDehwFv5ReqXHiBGQCJazYAzoShbCeM
+#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusdeportes1.png?raw=true" group-title="MOVISTAR+",M+DEPORTESHD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3800?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/mplusdeportes1.png?raw=true" group-title="MOVISTAR+",M+DEPORTESHD
+http://bestshow365.xyz:80/live/3884151988/5015530289/189463.ts
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://github.com/lucifer843/picon/blob/main/tdp1.png?raw=true" group-title="MOVISTAR+",TELEDEPORTE
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApWU_n5q_kNOpWnEtKLFgYRI
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://github.com/lucifer843/picon/blob/main/tdp1.png?raw=true" group-title="MOVISTAR+",TELEDEPORTE
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3857?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://github.com/lucifer843/picon/blob/main/golplay1.png?raw=true" group-title="MOVISTAR+",GOL PLAY
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxTxVzbDu1-K0RpCDS3XGisTBfMGZqxzCf9VUs95bddXN
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://github.com/lucifer843/picon/blob/main/golplay1.png?raw=true" group-title="MOVISTAR+",GOL PLAY
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/3843?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ELLAS #V HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/ellas1.png?raw=true" group-title="MOVISTAR+",M+ELLAS #V HD
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxZeZZoQrFOPn3-UaxGm0-yeyEKj_cqv4ylZprj-Z0tib
+#EXTINF:-1 tvg-id="M+ELLAS #V HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/ellas1.png?raw=true" group-title="MOVISTAR+",M+ELLAS #V HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27189?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/vamos4k.png?raw=true" group-title="MOVISTAR+",M+ #VAMOS 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26267?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/vamos1.png?raw=true" group-title="MOVISTAR+",M+ #VAMOSHD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApWQACe7GsvXKcTYbO4spj5T
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/vamos1.png?raw=true" group-title="MOVISTAR+",M+ #VAMOSHD
+http://bestshow365.xyz:80/live/3884151988/5015530289/379045.ts
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/dazn14k.png?raw=true" group-title="MOVISTAR+",DAZN 1 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26621?h=6382d38751e25f8effefa913ee02
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/dazn11.png?raw=true" group-title="MOVISTAR+",DAZN 1 HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_nzeNHkVEUOCpzVOyy0F6WG9VfibuURJ-VbTniM9jv3G
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/dazn11.png?raw=true" group-title="MOVISTAR+",DAZN 1 HD
+http://bestshow365.xyz:80/live/3884151988/5015530289/360196.ts
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/dazn24k.png?raw=true" group-title="MOVISTAR+",DAZN 2 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26622?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/dazn21.png?raw=true" group-title="MOVISTAR+",DAZN 2 HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_iFQ0twVWXfwooavjzyPJytWhhHzj2Z8VLHugex__ZBE
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/dazn21.png?raw=true" group-title="MOVISTAR+",DAZN 2 HD
+http://bestshow365.xyz:80/live/3884151988/5015530289/360197.ts
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://github.com/lucifer843/picon/blob/main/dazn34k.png?raw=true" group-title="MOVISTAR+",DAZN 3 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27185?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://github.com/lucifer843/picon/blob/main/dazn31.png?raw=true" group-title="MOVISTAR+",DAZN 3 HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_iFQ0twVWXfwooavjzyPJytk1TQ3uM1t4_JQHsrxtpIr
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://github.com/lucifer843/picon/blob/main/dazn31.png?raw=true" group-title="MOVISTAR+",DAZN 3 HD
+http://bestshow365.xyz:80/live/3884151988/5015530289/379044.ts
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://github.com/lucifer843/picon/blob/main/dazn44k.png?raw=true" group-title="MOVISTAR+",DAZN 4 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27184?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://github.com/lucifer843/picon/blob/main/dazn41.png?raw=true" group-title="MOVISTAR+",DAZN 4 HD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_iFQ0twVWXfwooavjzyPJyvhcMP0AsRNM_BQo6UFaLJg
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://github.com/lucifer843/picon/blob/main/dazn41.png?raw=true" group-title="MOVISTAR+",DAZN 4 HD
+http://bestshow365.xyz:80/live/3884151988/5015530289/379045.ts
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznf1uhd4k.png?raw=true" group-title="MOVISTAR+",DAZN F1 4K
+http://bestshow365.xyz:80/live/3884151988/5015530289/400241869.ts
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznf1uhd4k.png?raw=true" group-title="MOVISTAR+",DAZN F1 4K
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApWfhqWqScA5Q74Iy6uR9xJP
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznf1uhd4k.png?raw=true" group-title="MOVISTAR+",DAZN F1 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26271?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznf11.png?raw=true" group-title="MOVISTAR+",DAZN F1
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApVd7bt8U14GFr770vSgk2k4
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznf11.png?raw=true" group-title="MOVISTAR+",DAZN F1
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxUI5I2v7SMBYyJDehwFv5RfM8r511oc9qW_rvdbJaSqJ
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznf11.png?raw=true" group-title="MOVISTAR+",DAZN F1
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26627?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznf11.png?raw=true" group-title="MOVISTAR+",DAZN F1
+http://4a3c70dca02c83c60ff04a1c48edd13b.lig.unver.me:25461/Y6NassLNMR/725147112676/26626?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznlaliga14k.png?raw=true" group-title="MOVISTAR+",DAZN LaLiga 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27168?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznlaliga14k.png?raw=true" group-title="MOVISTAR+",DAZN LaLiga 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27169?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznlaliga1.png?raw=true" group-title="MOVISTAR+",DAZN LaLigaHD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_ofgqeL3QPgXPU-mZzPC-FSgr_EKW_CqGQ3Nl-oRxz8H
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznlaliga1.png?raw=true" group-title="MOVISTAR+",DAZN LaLigaHD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27175?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznlaliga1.png?raw=true" group-title="MOVISTAR+",DAZN LaLigaHD
+http://bestshow365.xyz:80/live/3884151988/5015530289/400440766.ts
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznlaliga1.png?raw=true" group-title="MOVISTAR+",DAZN LaLigaHD
+http://4a3c70dca02c83c60ff04a1c48edd13b.lig.unver.me:25461/Y6NassLNMR/725147112676/27160?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznlaliga1.png?raw=true" group-title="MOVISTAR+",DAZN LaLigaHD
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxZeZZoQrFOPn3-UaxGm0-ycvObnu_bfVoPgMLKrmJo2V
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznlaliga1.png?raw=true" group-title="MOVISTAR+",DAZN LaLigaHD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_ofgqeL3QPgXPU-mZzPC-FSCWZLp8ofAY3CxqgW2bmPZ
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznlaliga1.png?raw=true" group-title="MOVISTAR+",DAZN LaLigaHD
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxZeZZoQrFOPn3-UaxGm0-yfJXftbvSCZW7bbJ3hMSGva
+#EXTINF:-1 tvg-id="DAZN LaLiga2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznlaliga21.png?raw=true" group-title="MOVISTAR+",DAZN LaLiga2 HD
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxZeZZoQrFOPn3-UaxGm0-ydQcgDLxckbN7gKMJn17WHt
+#EXTINF:-1 tvg-id="DAZN LaLiga2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznlaliga21.png?raw=true" group-title="MOVISTAR+",DAZN LaLiga2 HD
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxZeZZoQrFOPn3-UaxGm0-ycyDdf71Ho89SGFmV3llIiW
+#EXTINF:-1 tvg-id="DAZN LaLiga2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznlaliga21.png?raw=true" group-title="MOVISTAR+",DAZN LaLiga2 HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27163?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="DAZN LaLiga2 HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/daznlaliga21.png?raw=true" group-title="MOVISTAR+",DAZN LaLiga2 HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27161?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ LaLiga" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaligatvuhd4k2.png?raw=true" group-title="MOVISTAR+",M+ LaLigaTVHD 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.lig.unver.me:25461/Y6NassLNMR/725147112676/26142?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ LaLiga" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaligatvuhd4k2.png?raw=true" group-title="MOVISTAR+",M+ LaLigaTVHD 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26141?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ LaLiga" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaligatv1.png?raw=true" group-title="MOVISTAR+",M+ LaLigaTVHD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_qHjfH7zi8VriobsKuF9XmagPgXk59nBZl3behNj8ya6
+#EXTINF:-1 tvg-id="M+ LaLiga" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaligatv1.png?raw=true" group-title="MOVISTAR+",M+ LaLigaTVHD
+http://4a3c70dca02c83c60ff04a1c48edd13b.lig.unver.me:25461/Y6NassLNMR/725147112676/3849?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ LaLiga" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaligatv1.png?raw=true" group-title="MOVISTAR+",M+ LaLigaTVHD
+http://bestshow365.xyz:80/live/3884151988/5015530289/189459.ts
+#EXTINF:-1 tvg-id="M+ LaLiga" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaligatv1.png?raw=true" group-title="MOVISTAR+",M+ LaLigaTVHD
+http://bestshow365.xyz:80/live/3884151988/5015530289/165885.ts
+#EXTINF:-1 tvg-id="M+ LaLiga" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaligatv1.png?raw=true" group-title="MOVISTAR+",M+ LaLigaTVHD
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApV-zgB_IgGw0F1zbLHd4agP
+#EXTINF:-1 tvg-id="M+ LaLiga" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaligatv1.png?raw=true" group-title="MOVISTAR+",M+ LaLigaTVHD
+http://4a3c70dca02c83c60ff04a1c48edd13b.lig.unver.me:25461/Y6NassLNMR/725147112676/26246?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-logo="https://github.com/lucifer843/picon/blob/main/laligatvbar14k.png?raw=true" group-title="MOVISTAR+",LALIGATV BAR 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26269?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-logo="https://github.com/lucifer843/picon/blob/main/laligatvbar1.png?raw=true" group-title="MOVISTAR+",LALIGATV BAR
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_ofgqeL3QPgXPU-mZzPC-FTHc-aT-VZ8Y-LuoAKsS9Z6
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-logo="https://github.com/lucifer843/picon/blob/main/laligatvbar1.png?raw=true" group-title="MOVISTAR+",LALIGATV BAR
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_ofgqeL3QPgXPU-mZzPC-FQwmSbVjIY_4YJKi3aAX-Ov
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-logo="https://github.com/lucifer843/picon/blob/main/laligatvbar1.png?raw=true" group-title="MOVISTAR+",LALIGATV BAR
+http://4a3c70dca02c83c60ff04a1c48edd13b.lig.unver.me:25461/Y6NassLNMR/725147112676/357?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ LaLiga 2" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaligatv21.png?raw=true" group-title="MOVISTAR+",M+ LaLigaTV2HD
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxUI5I2v7SMBYyJDehwFv5Rdqvg-4qqnvRXgz6tgeibkh
+#EXTINF:-1 tvg-id="M+ LaLiga 2" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaligatv21.png?raw=true" group-title="MOVISTAR+",M+ LaLigaTV2HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26045?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ LaLiga 2" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaligatv21.png?raw=true" group-title="MOVISTAR+",M+ LaLigaTV2HD
+http://bestshow365.xyz:80/live/3884151988/5015530289/9461.ts
+#EXTINF:-1 tvg-id="M+ LaLiga 3" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaligatv31.png?raw=true" group-title="MOVISTAR+",M+ LaLigaTV3HD
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxUI5I2v7SMBYyJDehwFv5ReMzglkgokABkmkUWg7Hdgs
+#EXTINF:-1 tvg-id="M+ LaLiga 3" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaligatv31.png?raw=true" group-title="MOVISTAR+",M+ LaLigaTV3HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26044?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+ LaLiga 3" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslaligatv31.png?raw=true" group-title="MOVISTAR+",M+ LaLigaTV3HD
+http://bestshow365.xyz:80/live/3884151988/5015530289/9462.ts
+#EXTINF:-1 tvg-id="LigaSmartBankHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/laligasmartbank1.png?raw=true" group-title="MOVISTAR+",LigaSmartBankHD
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxZeZZoQrFOPn3-UaxGm0-ydt9z596zkwc1I0XWTMvlzG
+#EXTINF:-1 tvg-id="LigaSmartBankHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/laligasmartbank1.png?raw=true" group-title="MOVISTAR+",LigaSmartBankHD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27166?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="LigaSmartBankHD" tvg-logo="https://github.com/lucifer843/picon/blob/main/laligasmartbank1.png?raw=true" group-title="MOVISTAR+",LigaSmartBankHD
+http://bestshow365.xyz:80/live/3884151988/5015530289/129089.ts
+#EXTINF:-1 tvg-id="LigaSmartBank2HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/laligasmartbank21.png?raw=true" group-title="MOVISTAR+",LigaSmartBank2HD
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxZeZZoQrFOPn3-UaxGm0-yc4nQFXuKDsS8AhjANZs0ca
+#EXTINF:-1 tvg-id="LigaSmartBank2HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/laligasmartbank21.png?raw=true" group-title="MOVISTAR+",LigaSmartBank2HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27196?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="LigaSmartBank2HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/laligasmartbank21.png?raw=true" group-title="MOVISTAR+",LigaSmartBank2HD
+http://bestshow365.xyz:80/live/3884151988/5015530289/129010.ts
+#EXTINF:-1 tvg-id="LigaSmartBank3HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/laligasmartbank31.png?raw=true" group-title="MOVISTAR+",LigaSmartBank3HD
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxcuC-G3v8617JcMA7u1mF2dyO9bL0J8X242UPQn_2Z3b
+#EXTINF:-1 tvg-id="LigaSmartBank3HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/laligasmartbank31.png?raw=true" group-title="MOVISTAR+",LigaSmartBank3HD
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/27197?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="LigaSmartBank3HD" tvg-logo="https://github.com/lucifer843/picon/blob/main/laligasmartbank31.png?raw=true" group-title="MOVISTAR+",LigaSmartBank3HD
+http://bestshow365.xyz:80/live/3884151988/5015530289/375700.ts
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslcampeonesuhd4k.png?raw=true" group-title="MOVISTAR+",M+LCAMPEONES 4K
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26140?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslcampeonesuhd4k.png?raw=true" group-title="MOVISTAR+",M+LCAMPEONES 4K
+http://tammi.solanaflix.com:8080/play/GjF6jsPZj5QrKr3MCssb_hsQTqSd-gtOvQVmO2DeApV-OXIT4FAMDM0g3RG5Ox5H
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluslcampeonesuhd4k.png?raw=true" group-title="MOVISTAR+",M+LCAMPEONES 4K
+http://bestshow365.xyz:80/live/3884151988/5015530289/400241868.ts
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluscapeones1.png?raw=true" group-title="MOVISTAR+",M+LCAMPEONES
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxUI5I2v7SMBYyJDehwFv5RcBqQ7g3_YPjWCsJTL7jaTj
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluscapeones1.png?raw=true" group-title="MOVISTAR+",M+LCAMPEONES
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26078?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluscapeones1.png?raw=true" group-title="MOVISTAR+",M+LCAMPEONES
+http://4a3c70dca02c83c60ff04a1c48edd13b.lig.unver.me:25461/Y6NassLNMR/725147112676/26316?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluscapeones1.png?raw=true" group-title="MOVISTAR+",M+LCAMPEONES
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/26067?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluscapeones1.png?raw=true" group-title="MOVISTAR+",M+LCAMPEONES
+http://4a3c70dca02c83c60ff04a1c48edd13b.lig.unver.me:25461/Y6NassLNMR/725147112676/26315?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluscapeones1.png?raw=true" group-title="MOVISTAR+",M+LCAMPEONES
+http://4a3c70dca02c83c60ff04a1c48edd13b.lig.unver.me:25461/Y6NassLNMR/725147112676/445?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluscapeones21.png?raw=true" group-title="MOVISTAR+",M+LCAMPEON2
+http://tammi.solanaflix.com:8080/play/Br8g_DqhETiZtONLjA_KxUI5I2v7SMBYyJDehwFv5RctwQMTL_X-4Z99V-tvsUhI
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-logo="https://github.com/lucifer843/picon/blob/main/mpluscapeones21.png?raw=true" group-title="MOVISTAR+",M+LCAMPEON2
+http://4a3c70dca02c83c60ff04a1c48edd13b.spa.unver.me:25461/Y6NassLNMR/725147112676/439?h=6382d38751e25f8effefa913ee02981ff1f0b3ed&z=88.9.211.56&i=15276
